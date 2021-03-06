@@ -1,0 +1,30 @@
+.btn1 {
+  background-color: #8e7754 !important;
+  color: white;
+  border-radius: 5px;
+}
+
+.btn2 {
+  background-color: transparent !important;
+  color: white;
+  border-color: white;
+  border: solid 2px;
+  border-radius: 5px;
+}
+
+.header {
+  background-image: url(imge/header.jpg);
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
+
+.navbar {
+  background-color: transparent !important;
+  position: fixed;
+}
+
+.navbar a {
+  color: wheat !important;
+}
+/*# sourceMappingURL=style.css.map */

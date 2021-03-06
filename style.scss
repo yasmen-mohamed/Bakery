@@ -1,0 +1,35 @@
+@import 'buttons.scss';
+@import 'colors.scss';
+@import 'variabls.scss';
+
+.header
+{
+    background-image: url(imge/header.jpg);
+    background: 
+    {
+        size: cover;
+        position: center center;
+        attachment: fixed;
+    }
+    
+}
+
+.navbar
+{
+    background-color: transparent !important;
+    position: fixed;
+}
+.navbar a
+{
+    color: $wight !important;
+}
+
+.aboutImg img
+{
+    width: 100%;
+}
+.baking
+{
+    background-color: $baking;
+    margin-top: $margTop;
+}
